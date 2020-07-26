@@ -7,8 +7,6 @@
 - Connection with a **PostgreSQL** instance.
 - A simple **migration code** using the tool *dotnet ef*.
 
-## Explanation
-
 ## How to use
 
 1. You will need a PostgreSQL instance.
