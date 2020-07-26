@@ -10,7 +10,7 @@ This project is an example about a .NET backend connecting, migrating, and retri
 - Simple usage about **Entity Framework Core**
 - Connection with a **PostgreSQL** instance.
 - A simple **migration code** using the tool *dotnet ef*.
-- A single API endpoint.
+- A single **API endpoint**.
 
 ## How to use
 
