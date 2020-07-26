@@ -1,11 +1,16 @@
 # ASP .NET core example connection with PostgreSQL
 
+## Description
+
+This project is an example about a .NET backend connecting, migrating, and retrieving data via API end point to a PostgreSQL database.
+
 ## What we covered here
 
 - **.NET** environent.
 - Simple usage about **Entity Framework Core**
 - Connection with a **PostgreSQL** instance.
 - A simple **migration code** using the tool *dotnet ef*.
+- A single API endpoint.
 
 ## How to use
 
