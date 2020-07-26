@@ -22,7 +22,7 @@ dotnet --version
 
 3. Clone this repository.
 
-4. Open _appsettings.json_ and modify the connection string according to your environment and credentials.
+4. Open _appsettings.json_ and modify the connection string according to your environment and credentials. *The credentials you will see there were used on a testing instance*.
 
 5. We need to restore the dependencies needed. Run the following command.
 ```
