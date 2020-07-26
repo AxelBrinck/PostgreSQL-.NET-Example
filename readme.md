@@ -43,3 +43,5 @@ dotnet tool install --global dotnet-ef
 ```
 dotnet run
 ```
+
+10. You should now be able to see the data from the database by visiting: [http://localhost:5000/api/article]()
