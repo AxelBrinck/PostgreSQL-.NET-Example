@@ -50,3 +50,7 @@ dotnet run
 ```
 
 10. You should now be able to see the data from the database by visiting: [http://localhost:5000/api/article]()
+
+## Tools used
+- Visual Studio Code
+- .NET Core 3.1
