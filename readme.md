@@ -12,11 +12,6 @@ This project is an example of a .NET.Core backend connecting, migrating, and ret
 - **Migration code** using the tool *dotnet ef*.
 - A single **API endpoint**.
 
-## Features to be added in future versions
-
-- Full REST capabilities.
-- Hide the connection string from version control.
-
 ## Requirements
 
 - PostgreSQL instance running.
